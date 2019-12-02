@@ -1,0 +1,95 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+<category>
+
+        <pattern> I go to *</pattern>
+        <template>
+          i do not go to <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I work at *.</pattern>
+        <template>
+          i do not work at <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I live in *.</pattern>
+        <template>
+          i do not live in <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I live in *.</pattern>
+        <template>
+          i do not live in <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I go to *.</pattern>
+        <template>
+          Do I go to <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I work at *.</pattern>
+        <template>
+           Do I work at <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I live in *.</pattern>
+        <template>
+           Do I live in <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I am going to *.</pattern>
+        <template>
+          Am I going to <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I am working at *.</pattern>
+        <template>
+           Am I working at <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I am living in *.</pattern>
+        <template>
+           Am I living in <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I am going to *.</pattern>
+        <template>
+          I am not going to <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I am working at *.</pattern>
+        <template>
+           I am not working at <star/>
+        </template>
+    </category>
+<category>
+
+        <pattern> I am living in *.</pattern>
+        <template>
+           I am not living in <star/>
+        </template>
+    </category>
+
+</aiml>
